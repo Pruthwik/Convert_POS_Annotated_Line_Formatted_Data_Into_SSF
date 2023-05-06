@@ -1,0 +1,34 @@
+<Sentence id='1'>
+1	रामायण	N_NNP
+2	काल	N_NNP
+3	में	PSP
+4	भगवान	N_NN
+5	राम	N_NNP
+6	के	PSP
+7	पुत्र	N_NN
+8	कुश	N_NNP
+9	की	PSP
+10	राजधानी	N_NN
+11	कुशावती	N_NNP
+12	को	PSP
+13	483	N_NNP
+14	ईसा	N_NNP
+15	पूर्व	N_NNP
+16	बुद्ध	N_NNP
+17	ने	PSP
+18	अपने	PR_PRF
+19	अंतिम	JJ
+20	विश्राम	N_NN
+21	के	PSP
+22	लिए	PSP
+23	चुना	V_VM
+24	।	RD_PUNC
+</Sentence>
+
+<Sentence id='2'>
+1	भगवान	N_NN
+2	राम	N_NNP
+3	के	PSP
+4	पुत्र	N_NN
+5	कुश	N_NNP
+</Sentence>

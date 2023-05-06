@@ -1,0 +1,2 @@
+रामायण_N_NNP काल_N_NNP में_PSP भगवान_N_NN राम_N_NNP के_PSP पुत्र_N_NN कुश_N_NNP की_PSP राजधानी_N_NN कुशावती_N_NNP को_PSP 483_N_NNP ईसा_N_NNP पूर्व_N_NNP बुद्ध_N_NNP ने_PSP अपने_PR_PRF अंतिम_JJ विश्राम_N_NN के_PSP लिए_PSP चुना_V_VM ।_RD_PUNC
+भगवान_N_NN राम_N_NNP के_PSP पुत्र_N_NN कुश_N_NNP
