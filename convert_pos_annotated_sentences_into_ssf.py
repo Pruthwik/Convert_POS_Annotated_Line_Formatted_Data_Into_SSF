@@ -74,7 +74,7 @@ def main():
 		output_folder_path = args.out
 		if not os.path.isdir(output_folder_path):
 			os.makedirs(output_folder_path)
-			convert_sentences_to_ssf_in_files_and_write_to_files(input_folder_path, output_folder_path, syms, puncs, args.sep)
+		convert_sentences_to_ssf_in_files_and_write_to_files(input_folder_path, output_folder_path, syms, puncs, args.sep)
 
 
 if __name__ == '__main__':
